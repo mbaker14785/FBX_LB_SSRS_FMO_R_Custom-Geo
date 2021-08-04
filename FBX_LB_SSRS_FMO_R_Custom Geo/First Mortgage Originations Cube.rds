@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="First Mortgage Originations Cube">
+  <ConnectionProperties>
+    <Extension>OLEDB-MD</Extension>
+    <ConnectString>Data Source=usefbxprdbi01;Initial Catalog="First Mortgage Originations Level 1"</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>19a14f4b-8e83-4968-aa69-42e1f62d711d</DataSourceID>
+</RptDataSource>
